@@ -8,7 +8,7 @@
     "watch": "node_modules/.bin/mocha -w"
   },
   "dependencies": {
-    "commander": "^2.19.0",
+    "commander": "^8.3.0",
     "ejs": "3.1.6",
     "markdown": "^0.3.1",
     "mime": "^1.0.0",
